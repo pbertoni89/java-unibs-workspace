@@ -1,0 +1,5 @@
+*/bin/
+*.classpath
+*.cproject
+*.project
+*.class
